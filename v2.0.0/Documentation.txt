@@ -18,4 +18,4 @@ version:
 2022/11/1 Complete 1.0.0
 2022/11/1 Complete 1.1.0 This is a minor change This program can support the writing of two strs in one file
 2022/11/1 Complete 2.0.0 This is a Major changes This program can support writing this in a file to get the input part
-The final interpretation right belongs to Hou Pu Liu
+The final interpretation right belongs to Hooe
