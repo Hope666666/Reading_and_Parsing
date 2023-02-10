@@ -16,4 +16,4 @@ Operating Instructions:
 version:
 2022/11/1 Complete 1.0.0
 2022/11/1 Complete 1.1.0 This is a minor change This program can support the writing of two strs in one file
-The final interpretation right belongs to Hou Pu Liu
+The final interpretation right belongs to Hope
