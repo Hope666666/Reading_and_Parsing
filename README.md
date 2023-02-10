@@ -38,3 +38,5 @@ str("XXX") mean string XXX
 v1.0.0 is English
 
 v2.0.0 is Chinese
+
+This project has used the MIT protocol
