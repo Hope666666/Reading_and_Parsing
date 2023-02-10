@@ -19,4 +19,4 @@ version:
 2022/11/1 Complete 1.0.0
 
 
-The final interpretation right belongs to Hou Pu Liu
+The final interpretation right belongs to Hope
